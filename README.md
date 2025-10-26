@@ -68,8 +68,8 @@
 ---
 
 ### 🎤 Talks & Outreach
-- **Guest Speaker** – *Advanced Kubernetes Networking and Troubleshooting*, NYCU (Dec 2025)  
-- **Guest Speaker** – *Introduction to Kubernetes and Its Networking Fundamentals*, NYCU (Sep 2024) 
+- **Guest Speaker** – *Advanced Kubernetes Networking and Troubleshooting*, NYCU (Dec. 2025)  
+- **Guest Speaker** – *Introduction to Kubernetes and Its Networking Fundamentals*, NYCU (Sep. 2024) 
 
 ---
 
