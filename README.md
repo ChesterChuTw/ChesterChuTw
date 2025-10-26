@@ -1,6 +1,6 @@
 ### Hi, I'm Chester Chu 👋
 
-💡 *Cloud-Native & AIOps Researcher | DevOps Engineer | Kubernetes Enthusiast*
+💡 *Cloud-Native & AIOps Researcher | Student | Kubernetes Enthusiast*
 
 ---
 
