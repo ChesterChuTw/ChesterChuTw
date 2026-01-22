@@ -1,6 +1,7 @@
 ### Hi, I'm Chester Chu 👋
 
 💡 *Cloud-Native & AIOps Researcher | Student | Kubernetes Enthusiast*
+
 💻 To learn more about me: [My CV](https://github.com/ChesterChuTw/my-cv)
 
 ---
