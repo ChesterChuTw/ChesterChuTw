@@ -11,6 +11,25 @@
 
 ---
 
+### 🚀 Recent Project Highlight — WinLab Production Infrastructure
+
+This repository documents the **production Kubernetes infrastructure (winfra)** currently operating at the **Wireless & Internet Lab (WinLab), National Yang Ming Chiao Tung University (NYCU)**.
+
+The project captures an end-to-end refactoring of the **WinLab production environment**, migrating from a Kubespray + Terraform–managed Kubernetes setup to an **immutable, GitOps-driven platform based on Talos Linux and Flux CD**.
+
+Key areas covered in this repository include:
+- Production cluster bootstrap and node lifecycle automation
+- GitOps-based infrastructure and application management
+- Stateful workload transition with **PV-level data migration**
+- Multi-application, multi-version upgrades with rollback-capable database strategies
+
+🔎 **Production infrastructure repository:**  
+👉 https://github.com/ChesterChuTw/winfra-cluster-management
+
+This repository reflects **real-world operational practices and design decisions** derived from maintaining a continuously running laboratory production environment, rather than a demo or experimental setup.
+
+---
+
 ### 🔬 Research & Interests
 - 🌩️ Cloud-Native Infrastructure Automation with **Talos**, **Flux CD**, and **Proxmox VE**  
 - 📡 AIOps and **End-to-End Observability** for Cloud Native Environment 
