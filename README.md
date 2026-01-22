@@ -1,6 +1,7 @@
 ### Hi, I'm Chester Chu 👋
 
 💡 *Cloud-Native & AIOps Researcher | Student | Kubernetes Enthusiast*
+💻 To learn more about me: [My CV](https://github.com/ChesterChuTw/my-cv)
 
 ---
 
@@ -95,4 +96,4 @@ This repository reflects **real-world operational practices and design decisions
 ### 📫 Get in Touch
 - 📧 Email: [chester850117@gmail.com](mailto:chester850117@gmail.com)  
 - 💼 LinkedIn: [Chien-Hsien Chu](https://www.linkedin.com/in/chesterchutw](https://www.linkedin.com/in/chester-chu-947593321)/) <- Haven't finished the update yet. :<
-- 💻 To learn more about me: [My CV](https://github.com/ChesterChuTw/my-cv)
+
