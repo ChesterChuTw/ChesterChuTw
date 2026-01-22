@@ -2,7 +2,7 @@
 
 💡 *Cloud-Native & AIOps Researcher | Student | Kubernetes Enthusiast*
 
-💻 To learn more about me: [My CV](https://github.com/ChesterChuTw/my-cv)
+💻 I'm finding a job :) Would you like to hire me?   ~~> See [My CV](https://github.com/ChesterChuTw/my-cv) Please!
 
 ---
 
