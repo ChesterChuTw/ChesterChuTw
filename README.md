@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Recent Project Highlight — WinLab Production Infrastructure
+### 🚀 Recent Project Highlight — WinLab Infrastructure (Winfra)
 
 This repository documents the **production Kubernetes infrastructure (winfra)** currently operating at the **Wireless & Internet Lab (WinLab), National Yang Ming Chiao Tung University (NYCU)**.
 
