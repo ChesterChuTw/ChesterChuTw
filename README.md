@@ -1,6 +1,6 @@
 ### Hi, I'm Chester Chu 👋
 
-💡 *Cloud-Native & AIOps Researcher | Student | Kubernetes Enthusiast*
+💡 *Cloud-Native & AIOps Researcher | 5yr+ Platform/SRE/DevOps/Full-Stack Work Exp. | Kubernetes Enthusiast*
 
 💻 I'm finding a job :) Would you like to hire me?   ~~> **SEE [MY CV](https://github.com/ChesterChuTw/my-cv) PLZ!**
 
@@ -8,12 +8,13 @@
 
 ### 🏫 Education
 - **M.S. in Computer Science — National Yang Ming Chiao Tung University (NYCU)**
-  - *Research:* AIOps and Observability in Cloud-Native O-RAN Systems  
-  - *Advisor:* Prof. Chien-Chao Tseng  
+  - *Research:* Observability-Driven Root Cause Analysis and Recovery Framework for Cloud-Native 5G Core Network Functions  
+  - *Advisor:* Prof. Chien-Chao Tseng
+  - *Stage:* Graduated (2026.09)
 
 ---
 
-### 🚀 Recent Project Highlight — WinLab Infrastructure (Winfra)
+### 🚀 Project Highlight — WinLab Infrastructure (Winfra)
 
 This repository documents the **production Kubernetes infrastructure (winfra)** currently operating at the **Wireless & Internet Lab (WinLab), National Yang Ming Chiao Tung University (NYCU)**.
 
