@@ -2,7 +2,9 @@
 
 💡 *Cloud-Native & AIOps Researcher | 5yr+ Platform/SRE/DevOps/Full-Stack Work Exp. | Kubernetes Enthusiast*
 
-💻 I'm finding a job :) Would you like to hire me?   ~~> **SEE [MY CV](https://github.com/ChesterChuTw/my-cv) PLZ!**
+💻 I'm finding a job :) Would you like to hire me?   
+- **SEE [MY CV](https://github.com/ChesterChuTw/my-cv)**
+- **SEE [MY LinkedIn](https://www.linkedin.com/in/%E5%81%A5%E9%8A%9C-%E6%9C%B1-947593321)**
 
 ---
 
